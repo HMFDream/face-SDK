@@ -1,0 +1,6 @@
+use_frameworks!
+target 'face-SDK_Tests' do
+  pod 'face-SDK', :path => '../'
+  
+  
+end

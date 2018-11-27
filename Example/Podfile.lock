@@ -1,0 +1,16 @@
+PODS:
+  - face-SDK (0.1.0)
+
+DEPENDENCIES:
+  - face-SDK (from `../`)
+
+EXTERNAL SOURCES:
+  face-SDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  face-SDK: 70fa21be384d83a95607e54bc289bd3ed6b84253
+
+PODFILE CHECKSUM: e6906ad3d781aaa2fd93f3ac2db6c844fe6e9183
+
+COCOAPODS: 1.5.3
