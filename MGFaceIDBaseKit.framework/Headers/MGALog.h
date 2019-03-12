@@ -2,8 +2,8 @@
 //  Log.h
 //  AliyunLogObjc
 //
-//  Created by MegviiDev on 2018/06/27.
-//  Copyright © 2016年 MegviiDev. All rights reserved.
+//  Created by 陆家靖 on 2016/10/27.
+//  Copyright © 2016年 陆家靖. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -67,15 +67,6 @@
  */
 - (NSString *)stopRceording;
 
-//  静默活体
-- (void)silentLiveWithMoveName:(NSString *)nameStr;
-
-- (void)startSilentLiveRecording:(NSUInteger)recordFPS;
-
-- (void)resetSilentLiveRecording;
-
-- (void)stopSilentLiveRecording;
-
 - (CMFormatDescriptionRef)formatDescription;
 
 /** only valid after startRunning has been called */

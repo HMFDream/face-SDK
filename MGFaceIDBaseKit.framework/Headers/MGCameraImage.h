@@ -46,8 +46,4 @@ CGFloat MGCameraAngleOffsetFromPortraitOrientationToOrientation(AVCaptureVideoOr
 
 unsigned char* MGCameraImageRGBABufferWithImage(UIImage* image);
 
-+ (void)imageBufferBGRA2RGBAWithsrc:(const unsigned char *)src dst:(unsigned char *)dst imageWidth:(int)imageWidth imageHeight:(int)imageHeight;
-
-+ (UIImage *)convertBitmapRGBA8ToUIImage:(unsigned char *)buffer imageWidth:(int)imageWidth imageHeight:(int)imageHeight;
-
 @end
