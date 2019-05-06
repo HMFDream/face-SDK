@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'face-SDK'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of face-SDK.'
 
 # This description is used to generate tags and improve search results.
@@ -30,8 +30,8 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'face-SDK/Classes/*'
-  
+#  s.source_files = 'face-SDK/Classes/*'
+
   s.resources = ['face-SDK/Assets/MGFaceIDDetectResource.bundle', 'face-SDK/Assets/MGFaceIDZZIDCardResouce.bundle']
   
   s.vendored_frameworks = 'MGFaceIDBaseKit.framework', 'MGFaceIDDetect.framework','MGFaceIDZZIDCardKit.framework'
